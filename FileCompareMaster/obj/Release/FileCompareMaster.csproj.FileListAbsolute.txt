@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\bin\Release\FileCompareMaster.exe.config
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\bin\Release\FileCompareMaster.exe
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\bin\Release\FileCompareMaster.pdb
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\obj\Release\FileCompareMaster.Form1.resources
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\obj\Release\FileCompareMaster.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\obj\Release\FileCompareMaster.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\obj\Release\FileCompareMaster.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\obj\Release\FileCompareMaster.exe
+D:\VisualStudioProjects\C#\FileCompareMaster\FileCompareMaster\obj\Release\FileCompareMaster.pdb
